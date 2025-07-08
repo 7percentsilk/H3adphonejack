@@ -29,6 +29,11 @@ header {
   background-color: rgb(255, 170, 0);
 }
 
+.gold {
+  width: 90%;
+  height: 75%;
+}
+
 .gigs-tab {
   text-align: center;
   margin-top: 2rem; 
